@@ -1,4 +1,4 @@
-# EverLisr
+# EverList
 The GitHub Repository for Firefox browser extension EverList. An extension that will prevent specific links from opening without your knowledge.
 This extension is under the [Mozilla Public License v2.0](LICENSE).
 
